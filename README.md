@@ -1,0 +1,1 @@
+This is a Phone Book Management System in cpp that manages the contacts. The syestem includes many functionalities like login/signup, different roles, add, delete, update ,search and view contact list.
